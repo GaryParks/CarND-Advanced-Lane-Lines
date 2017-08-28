@@ -19,16 +19,16 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/undistort_output.png "Undistorted"
-[image2]: ./images/test.png "Road Transformed"
-[image3]: ./images/test_out.png "Undistorted"
-[image4]: ./images/hls_s.png "HLS"
-[image5]: ./images/color.png "Color"
-[image6]: ./images/perspective.png "Birds Eye"
-[image7]: ./images/poly.png "Window Polyfit"
-[image8]: ./images/prev.png "Previous Fit"
-[image9]: ./images/form.png "Formula"
-[image10]: ./images/final.png "Final Fit"
+[image1]: ./output_images/undistort_output.png "Undistorted"
+[image2]: ./output_images/test.png "Road Transformed"
+[image3]: ./output_images/test_out.png "Undistorted"
+[image4]: ./output_images/hls_s.png "HLS"
+[image5]: ./output_images/color.png "Color"
+[image6]: ./output_images/perspective.png "Birds Eye"
+[image7]: ./output_images/poly.png "Window Polyfit"
+[image8]: ./output_images/prev.png "Previous Fit"
+[image9]: ./output_images/form.png "Formula"
+[image10]: ./output_images/final.png "Final Fit"
 [video1]: ./project_video_out.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
